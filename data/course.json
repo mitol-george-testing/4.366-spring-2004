@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "891d7c90-6143-86fb-83a0-99073591da69"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Projects in the Visual Arts: Personal Narrative",
+  "course_description": "This advanced video class serves goes into greater depth on the topics covered in [4.351](courses/4-351-introduction-to-video-spring-2004) , Introduction to Video.\u00a0It also will explore the nature and function of narrative in cinema and video through exercises and screenings culminating in a final project. Starting with a brief introduction to the basic principles of classical narrative cinema, we will proceed to explore strategies designed to test the elements of narrative: story trajectory, character development, verisimilitude, time-space continuity, viewer identification, suspension of disbelief, and closure.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.366",
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Media Assignments"
+  ],
+  "title": "Course Metadata"
+}
